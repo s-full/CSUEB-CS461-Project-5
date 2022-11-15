@@ -1,0 +1,11 @@
+male(Stuart).
+male(Robert).
+male(Stefan).
+female(Carolyn).
+female(Sophie).
+
+male(Robert_Sr).
+male(Richard).
+female(Faye).
+female(Joan).
+
